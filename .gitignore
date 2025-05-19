@@ -1,2 +1,4 @@
 mini_tokio/target
+basic_server/target
+tcp_echo_server/target
 .DS_Store
